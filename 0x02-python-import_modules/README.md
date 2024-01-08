@@ -1,4 +1,4 @@
-Tasks 📃
+Tasks: 📃
 
 0-add.py: Python program that imports the function def add(a, b): from the file add_0.py and prints the result of the addition 1 + 2 = 3.
 Output: <a value> + <b value> = <add(a, b) value> followed by a new line.
